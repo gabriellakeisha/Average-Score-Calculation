@@ -7,4 +7,7 @@ The program must follow the rule below:
 4. If the average score is between 60 and 70 (70 excluded) the program checks the third score. If the third score is greater or equal to 70 the grade is C, otherwise is D.
 5. If the average score is less than 60 (60 excluded) the program checks the third score. If the third score is greater or equal to 60 the grade is D, otherwise is F.
 
+Make another file to: 
+Modify, in order that the entire program is terminated until the string EXIT is inserted. 
+
 
